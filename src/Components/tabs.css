@@ -1,0 +1,9 @@
+li{
+    display: flex;
+    margin: 20px;
+    font-family: Dejavu;
+}
+
+ul{
+    display: flex;
+}
